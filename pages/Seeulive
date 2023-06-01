@@ -1,0 +1,23 @@
+#EXTM3Ux-tvg-url="https://verified.telegram.ind.in/TheTechieSiaOfficial"
+
+#EXTINF:-1 tvg-id="@TheTechieSiaOfficial" tvg-name="TS Playlist" tvg-logo="https://static3.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" group-title="Telegram-@TheTechieSiaOfficial",TheTechieSiaOfficial
+https://verified.telegram.ind.in/TheTechieSiaOfficial 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NxYeYlvq0sCd7gIfAWvXTg", "kid":"Z4Pu2QQSSR6JFOr9VpGUkg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="823" group-title="New-@TheTechieSiaOfficial" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" ,Goldmines
+https://delta13tatasky.akamaized.net/out/i/5025603.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5pWnQq1LXhkZhUQ2knOPbg", "kid":"LhcYMkekSM6npzLqu8oXbQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="51" group-title="New-@TheTechieSiaOfficial" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png" ,Dangal
+https://delta9tatasky.akamaized.net/out/i/5644804.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hGAWT1F5vyuegXdGk5N8qA", "kid":"erruoYLqW3+SEILeEVZ6DA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="135" group-title="New-@TheTechieSiaOfficial" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png" ,TLC
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t0WSTDFrPLQvJSHquyGZ2g", "kid":"T7bDQc5hSBG9YitGQVd5YA" } ], "type":"temporary" }
