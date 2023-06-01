@@ -21,3 +21,58 @@ https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifes
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t0WSTDFrPLQvJSHquyGZ2g", "kid":"T7bDQc5hSBG9YitGQVd5YA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="@TheTechieSiaOfficial-Star Maa" tvg-name="Star Maa" group-title="TSKY-@TheTechieSiaOfficial" group-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" tvg-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg",Star Maa
+
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"VVMKKaXlXoj9Or7UTXZ9KA","kid":"nzps+7J0Ud2fKBZmyOYtgQ"}]}
+
+#EXTINF:-1 tvg-id="@TheTechieSiaOfficial-Star Maa Movies HD" tvg-name="Star Maa Movies HD" group-title="TSKY-@TheTechieSiaOfficial" group-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" tvg-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg",Star Maa Movies HD
+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SaSP0x5J1zUje8cht81Y7w", "kid":"sunyHzaHXqe8XSguU//cIg" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="516" group-title="New-@TheTechieSiaOfficial Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR Maa HD
+
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"kc/x+dFo9fkiB3VzKd0qPw","kid":"305xkBlsXzi1Q85dRHswHw"}]}
+
+#EXTINF:-1 tvg-id="@TheTechieSiaOfficial-Star Maa Gold" tvg-name="Star Maa Gold" group-title="TSKY-@TheTechieSiaOfficial" group-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" tvg-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg",Star Maa Gold
+
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"PfTqbGLT7GroiH1sdu7Iwg","kid":"yfvKZyUlUtSMzwdYmpgCZw"}]}
+
+#EXTINF:-1 tvg-id="@TheTechieSiaOfficialStar Suvarna HD" tvg-name="Star Suvarna HD" group-title="TSKY-@TheTechieSiaOfficial" group-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" tvg-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg",Star Suvarna HD
+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"V9TAMtOrVQ4Ibuq6n0OraQ","kid":"nfvhsPYSVdmuCg175i0NXQ"}]}
