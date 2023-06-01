@@ -1,7 +1,8 @@
 #EXTM3Ux-tvg-url="https://verified.telegram.ind.in/TheTechieSiaOfficial"
-
 #EXTINF:-1 tvg-id="@TheTechieSiaOfficial" tvg-name="TS Playlist" tvg-logo="https://static3.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" group-title="Telegram-@TheTechieSiaOfficial",TheTechieSiaOfficial
-https://verified.telegram.ind.in/TheTechieSiaOfficial 
+
+https://verified.telegram.ind.in/TheTechieSiaOfficial
+ 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NxYeYlvq0sCd7gIfAWvXTg", "kid":"Z4Pu2QQSSR6JFOr9VpGUkg" } ], "type":"temporary" }
